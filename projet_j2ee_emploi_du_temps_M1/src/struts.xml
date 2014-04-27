@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+"http://struts.apache.org/dtds/struts-2.0.dtd">
+ 
+<struts>
+ 
+  <package name="home" namespace="/"  extends="struts-default">
+
+
+ 	<!-- DEBUT ACTIONS SIMPLES -->
+    <action name="">
+		<result>pages/frontOffice/index.jsp</result>
+	</action>
+
+	<action name="Index">
+		<result>pages/frontOffice/index.jsp</result>
+	</action>
+
+	<action name="Login">
+		<result>pages/frontOffice/login.jsp</result>
+	</action>
+	
+	<action name="AccessDenied">
+		<result>pages/other/errorDeniedAccess.jsp</result>
+	</action>
+
+	
+
+	<!-- FIN ACTIONS SIMPLES -->
+	
+	
+	<!-- DEBUT ACTION INSCRIPTION -->
+	<action name="InscriptionForm" class="actions.inscription.InscriptionAction" method="openInscriptionForm">
+		<result name="SUCCESS">pages/frontOffice/inscription.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="InscriptionAction" class="actions.inscription.InscriptionAction" method="execute">
+		<result name="SUCCESS" type="redirectAction">ShowCalendar</result>
+		<result name="input">pages/frontOffice/inscription.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<!-- FIN ACTION INSCRIPTION -->
+	
+	
+	<!-- DEBUT ACTION LOGIN -->
+	<action name="LoginAction" class="actions.login.LoginAction" method="execute">
+		<result name="SUCCESS" type="redirectAction">ShowCalendar</result>
+		<result name="input">pages/frontOffice/login.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<!-- FIN ACTION LOGIN -->
+	
+	
+	<!-- DEBUT ACTION LOGOUT -->
+	<action name="LogoutAction" class="actions.logout.LogoutAction" method="execute">
+		<result name="SUCCESS">pages/frontOffice/index.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<!-- FIN ACTION LOGOUT -->
+	
+	
+	<!-- DEBUT ACTION USER -->
+	<action name="ShowUser" class="actions.user.UserAction" method="showUser">
+		<result name="SUCCESS">pages/backOffice/showUser.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="DeleteUser" class="actions.user.UserAction" method="deleteUser">
+		<result name="SUCCESS" type="redirectAction">ShowUser</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="GetUser" class="actions.user.UserAction" method="getUser">
+		<result name="SUCCESS">pages/backOffice/updateUser.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="UpdateUser" class="actions.user.UserAction" method="updateUser">
+		<result name="SUCCESS" type="redirectAction">ShowUser</result>
+		<result name="input">pages/backOffice/updateUser.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<!-- FIN ACTION USER -->
+	
+	
+	<!-- DEBUT ACTION SCHEDULE -->
+	<action name="ScheduleForm" class="actions.schedule.ScheduleAction" method="openScheduleForm">
+		<result name="SUCCESS">pages/backOffice/newSchedule.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="NewSchedule" class="actions.schedule.ScheduleAction" method="execute">
+		<result name="SUCCESS" type="redirectAction">ShowSchedule</result>
+		<result name="input">pages/backOffice/newSchedule.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="ShowSchedule" class="actions.schedule.ScheduleAction" method="showSchedule">
+		<result name="SUCCESS">pages/backOffice/showSchedule.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="GetSchedule" class="actions.schedule.ScheduleAction" method="getSchedule">
+		<result name="SUCCESS">pages/backOffice/updateSchedule.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="UpdateSchedule" class="actions.schedule.ScheduleAction" method="updateSchedule">
+		<result name="SUCCESS" type="redirectAction">ShowSchedule</result>
+		<result name="input">pages/backOffice/updateSchedule.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="DeleteSchedule" class="actions.schedule.ScheduleAction" method="deleteSchedule">
+		<result name="SUCCESS" type="redirectAction">ShowSchedule</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<!-- FIN ACTION SCHEDULE -->
+	
+	
+	<!-- DEBUT ACTION CALENDAR -->
+	<action name="ShowCalendar" class="actions.calendar.CalendarAction" method="showSchedule">
+		<result name="SUCCESS">pages/frontOffice/calendar.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<!-- FIN ACTION CALENDAR -->
+	
+	
+	<!-- DEBUT ACTION CLASSROOM -->
+	<action name="NewClassroom" class="actions.classroom.ClassroomAction" method="execute">
+		<result name="SUCCESS" type="redirectAction">ShowClassroom</result>
+		<result name="input">pages/backOffice/newClassroom.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="ShowClassroom" class="actions.classroom.ClassroomAction" method="showClassroom">
+		<result name="SUCCESS">pages/backOffice/showClassroom.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="GetClassroom" class="actions.classroom.ClassroomAction" method="getClassroom">
+		<result name="SUCCESS">pages/backOffice/updateClassroom.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="UpdateClassroom" class="actions.classroom.ClassroomAction" method="updateClassroom">
+		<result name="SUCCESS" type="redirectAction">ShowClassroom</result>
+		<result name="input">pages/backOffice/updateClassroom.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="DeleteClassroom" class="actions.classroom.ClassroomAction" method="deleteClassroom">
+		<result name="SUCCESS" type="redirectAction">ShowClassroom</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="ClassroomForm">
+		<result>pages/backOffice/newClassroom.jsp</result>
+	</action>
+	<!-- FIN ACTION CLASSROOM -->
+	
+	
+	<!-- DEBUT ACTION GROUPE -->
+	<action name="NewGroup" class="actions.group.GroupAction" method="execute">
+		<result name="SUCCESS" type="redirectAction">ShowGroup</result>
+		<result name="input">pages/backOffice/newGroup.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="ShowGroup" class="actions.group.GroupAction" method="showGroup">
+		<result name="SUCCESS">pages/backOffice/showGroup.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="GetGroup" class="actions.group.GroupAction" method="getGroup">
+		<result name="SUCCESS">pages/backOffice/updateGroup.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="DeleteGroup" class="actions.group.GroupAction" method="deleteGroup">
+		<result name="SUCCESS" type="redirectAction">ShowGroup</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="UpdateGroup" class="actions.group.GroupAction" method="updateGroup">
+		<result name="SUCCESS" type="redirectAction">ShowGroup</result>
+		<result name="input">pages/backOffice/updateGroup.jsp</result>
+		<result name="ERROR">pages/other/error.jsp</result>
+	</action>
+	<action name="GroupForm">
+		<result>pages/backOffice/newGroup.jsp</result>
+	</action>
+   </package>
+   <!-- FIN ACTION CLASSROOM -->
+   
+   
+   <constant name="struts.action.excludePattern" value="/_ah/.*"/> 
+   <constant name="struts.custom.i18n.resources" value="resources/package"/>
+</struts>
