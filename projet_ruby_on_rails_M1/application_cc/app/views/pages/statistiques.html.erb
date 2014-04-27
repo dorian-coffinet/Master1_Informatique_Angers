@@ -1,0 +1,4 @@
+<h1>Statistiques</h1>
+<%= render partial: "shared/graphics_box_plot_poids", locals: {user_statistics: @user_statistics} %>
+<%= render partial: "shared/graphics_repartition_imc", locals: {user_statistics: @user_statistics} %>
+<%= render partial: "shared/graphics_poids_ac_ic", locals: {user_statistics: @user_statistics} %> 

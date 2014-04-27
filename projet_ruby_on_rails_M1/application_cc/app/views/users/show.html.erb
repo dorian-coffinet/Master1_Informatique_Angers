@@ -1,0 +1,28 @@
+<div class="fiche">
+  <div id= "fiche_infos" class="left-sidebar">
+    <div>
+      <p><%= @user.nom%></p>
+      <p><%=@user.email%></p>
+    </div>
+  
+    <div>
+      <p>Age : <%= @user.age %> ans</p>
+      <p>Taille : <%= @user.taille %> cm</p>
+      <p>Poids Actuel : <%= @user.poidsActuel%> kg</p>
+      <p>Poids Ideal : <%= @user.poidsIdeal%> kg</p>
+      <p>Imc : <%= @user.imc %></p>      
+    </div>
+  </div>
+
+  <div id="fiche_sport" class="right-sidebar">
+    <p>Sportif : <%= @user.estSportif ? "Oui" : "Non" %></p>
+    <p>Souhaite Pratiquer un sport : <%= @user.souhaitePratiquerSport ? "Oui" : "Non"%></p>
+  </div>
+
+  <% if @user.cvpdf.size %>
+    <div id= "fiche_thumb" class="right-sidebar thumb">
+      <p>Cv : <%= link_to image_tag("save_pdf.ico", size: "25x25"), @user.cvpdf.url(:original, false) %></p>
+      <%= image_tag @user.cvpdf.url(:thumb)%>
+    </div>
+  <% end %>
+</div>

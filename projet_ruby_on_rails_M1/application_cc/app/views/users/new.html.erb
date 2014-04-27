@@ -1,0 +1,58 @@
+<h1>Inscription</h1>
+
+<%= form_for @user, :url => users_path, :html => { :multipart => true } do |f| %>
+  <%= render 'shared/error_messages' %>
+  <div class="field">
+    <%= f.label :nom %><br />
+    <%= f.text_field :nom %>
+  </div>
+  <div class="field">
+    <%= f.label :email %><br />
+    <%= f.text_field :email %>
+  </div>
+    <div class="field">
+    <%= f.label "Date de Naissance" %><br />
+    <%= f.date_select :dateNaissance,  start_year: 1901 %>
+  </div>
+  <div class="field">
+    <%= f.label "Poids Actuel" %><br />
+    <%= f.text_field :poidsActuel %>
+  </div>
+  <div class="field">
+    <%= f.label "Poids Ideal" %><br />
+    <%= f.text_field :poidsIdeal %>
+  </div>
+  <div class="field">
+    <%= f.label :taille %><br />
+    <%= f.text_field :taille %>
+  </div>
+  <div class="field">
+    <%= f.label "Pratiquez vous un sport ?" %>
+    <%= f.label "Oui" %><%= f.radio_button :estSportif, 1%>
+    <%= f.label "Non" %><%= f.radio_button :estSportif, 0, :checked => true %>
+  </div>
+  <div class="field" id="souhaite_sport">
+    <%= f.label "Souhaitez faire du sport ?" %>
+    <%= f.label "Oui" %><%= f.radio_button :souhaitePratiquerSport, 1 %>
+    <%= f.label "Non" %><%= f.radio_button :souhaitePratiquerSport, 0, :checked => true %>
+  </div>
+  <div class="field">
+    <%= f.label "Vous pouvez déposer votre cv ici : " %>
+    <%= f.file_field :cvpdf %>
+  </div>
+  <div class="actions">
+    <%= f.submit "Inscription" %>
+  </div>
+<% end %>
+
+<script type="text/javascript">
+  jQuery("#user_estSportif_0").click(function() 
+      {
+              jQuery("#souhaite_sport").show();
+      });
+
+  jQuery("#user_estSportif_1").click(function() 
+      {
+              jQuery("#souhaite_sport").hide();
+      });
+</script>

@@ -1,0 +1,33 @@
+<h1>List des utilisateurs</h1>
+<p class="export">Télécharger la liste des utilisateurs en pdf <%= link_to image_tag("pdf_export.png", size: "25x25"), "/users.pdf"%></p>
+
+<table>                         
+  <tr>                          
+    <th>Nom</th>
+    <th>Email</th>
+    <th>Date de Naissance</th>
+    <th>Age</th>
+    <th>Taille</th>
+    <th>PoidsA</th>
+    <th>PoidsI</th>
+    <th>IMC</th>
+    <th>Sportif</th>
+    <th>Souhaite Pratiquer</th>
+    <th>CV</th>
+  </tr>
+	<% @users.each do |user| %>
+	  <tr>
+			<td><%= link_to user.nom, user %></td>
+			<td><%= user.email%></td>
+			<td><%= user.dateNaissance%></td>
+			<td><%= user.age %></td>
+			<td><%= user.taille %></td>
+			<td><%= user.poidsActuel%></td>
+			<td><%= user.poidsIdeal%></td>
+			<td><%= user.imc %></td>
+			<td><%= user.estSportif ? "oui" : "non" %></td>
+			<td><%= user.souhaitePratiquerSport  ? "oui" : "non" %></td>
+			<td><%= link_to "Download", user.cvpdf.url(:original, false) if user.cvpdf.size %></td>
+	  </tr>
+	<% end %>
+</table>

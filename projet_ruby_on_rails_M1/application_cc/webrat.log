@@ -1,0 +1,861 @@
+# Logfile created on 2014-01-26 14:23:08 +0100 by logger.rb/36483
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"", "poidsIdeal"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"", "poidsIdeal"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"", "poidsIdeal"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"", "poidsIdeal"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"", "poidsIdeal"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"", "poidsIdeal"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"", "poidsIdeal"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"", "poidsIdeal"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"0"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"0", "souhaitePratiquerSport"=>"0"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"26", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"January", "dateNaissance(3i)"=>"27", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"26", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"50", "poidsIdeal"=>"70", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"50", "poidsIdeal"=>"70", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"50", "poidsIdeal"=>"70", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"50", "poidsIdeal"=>"70", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"", "poidsIdeal"=>"", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(1i)"=>"2014", "dateNaissance(2i)"=>"1", "dateNaissance(3i)"=>"16", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(3i)"=>"16", "dateNaissance(2i)"=>"1", "dateNaissance(1i)"=>"2014", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(3i)"=>"16", "dateNaissance(2i)"=>"1", "dateNaissance(1i)"=>"2014", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(3i)"=>"16", "dateNaissance(2i)"=>"1", "dateNaissance(1i)"=>"2014", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(3i)"=>"16", "dateNaissance(2i)"=>"1", "dateNaissance(1i)"=>"2014", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(3i)"=>"16", "dateNaissance(2i)"=>"1", "dateNaissance(1i)"=>"2014", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(3i)"=>"16", "dateNaissance(2i)"=>"1", "dateNaissance(1i)"=>"2014", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"", "email"=>"", "dateNaissance(3i)"=>"16", "dateNaissance(2i)"=>"1", "dateNaissance(1i)"=>"2014", "poidsActuel"=>"60", "poidsIdeal"=>"70", "taille"=>"", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"✓", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "dateNaissance(3i)"=>"16", "dateNaissance(2i)"=>"1", "dateNaissance(1i)"=>"2014", "poidsActuel"=>"70", "poidsIdeal"=>"40", "taille"=>"100", "estSportif"=>"1", "souhaitePratiquerSport"=>"1", "cvpdf"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}

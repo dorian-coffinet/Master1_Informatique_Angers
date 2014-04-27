@@ -1,0 +1,1 @@
+== Application Rails pour le cours de script M1 Informatique d'Angers

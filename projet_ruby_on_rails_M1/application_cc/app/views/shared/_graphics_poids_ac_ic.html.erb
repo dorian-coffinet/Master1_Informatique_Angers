@@ -1,0 +1,26 @@
+<div id="graphique_repartition_poids_ac_ic" style="width:100%; height:400px;"></div>
+
+<script type="text/javascript"> 
+    $(function () { 
+        $('#graphique_repartition_poids_ac_ic').highcharts({
+            chart: {
+                type: 'line'
+            },
+            title: {
+                text: 'Courbe des Poids Actuels et Idéaux des utilisateurs'
+            },
+            yAxis: {
+                title: {
+                    text: 'Poigs en kg'
+                }
+            },
+            series: [{
+                name: 'Poids Actuels',
+                data: <%=@user_statistics.poids_ac%>
+            }, {
+                name: 'Poids Idéaux',
+                data: <%=@user_statistics.poids_id%>
+            }]
+        });
+    });
+</script>

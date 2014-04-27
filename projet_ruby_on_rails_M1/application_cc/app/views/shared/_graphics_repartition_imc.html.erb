@@ -1,0 +1,25 @@
+<div id="graphique_repartition_imc" style="width:100%; height:400px;"></div>
+
+<script type="text/javascript"> 
+
+    $(function () {
+        $('#graphique_repartition_imc').highcharts({
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false
+            },
+            title: {
+                text: 'Répartition des imc utilisateurs'
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            series: [{
+                type: 'pie',
+                name: 'Browser share',
+                data: <%= raw @user_statistics.datas.as_json %>
+            }]
+        });
+    });
+</script>

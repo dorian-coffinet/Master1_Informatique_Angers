@@ -1,0 +1,55 @@
+<script src="http://code.highcharts.com/highcharts-more.js"></script>
+<div id="graphique_box_plot_poids" style="height: 400px; margin: auto; min-width: 310px; max-width: 600px"></div>
+
+<script type="text/javascript">
+$(function () {
+    $('#graphique_box_plot_poids').highcharts({
+
+	    chart: {
+	        type: 'boxplot'
+	    },
+	    
+	    title: {
+	        text: 'Répartition des poids actuels et idéals'
+	    },
+	    
+	    legend: {
+	        enabled: false
+	    },
+	
+	    xAxis: {
+	        categories: ['Poids Actuels', 'Poids Ideals']
+	    },
+	    
+	    yAxis: {
+	        title: {
+	            text: 'Kilogrammes'
+	        },
+	        plotLines: [{
+	            value: 932,
+	            color: 'red',
+	            width: 1,
+	            label: {
+	                text: 'Theoretical mean: 932',
+	                align: 'center',
+	                style: {
+	                    color: 'gray'
+	                }
+	            }
+	        }]  
+	    },
+	
+	    series: [{
+	        name: 'Observations',
+	        data: [
+	            <%=@user_statistics.poids_ac_plot.as_json%>,
+	            <%=@user_statistics.poids_id_plot.as_json%>
+	        ],
+	        tooltip: {
+	            headerFormat: '<em>{point.key}</em><br/>'
+	        }
+	    }]
+	
+	});
+});
+</script>
