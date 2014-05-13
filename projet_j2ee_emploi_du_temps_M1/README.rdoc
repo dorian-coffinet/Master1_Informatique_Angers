@@ -1,7 +1,16 @@
-== Membre du groupe :
+== Membre du groupe
 COFFINET Dorian
 FARDILHA Mickael
 GAUTHIER Thibault
 PILLIE Raphael
 
-== Sujet :
+== Sujet
+Réaliser un emploi du temps en Java EE
+
+== Environnement
+Nous avons utilisé git et github comme logiciels de version pour le projet
+Pour l’environnement de développement, nous avons décidé d’utiliser un EDI, et plus précisément Eclipse, en version Kepler, auquel nous avons ajouté plusieurs outils et frameworks :
+Tomcat7, version 7.0.33 
+JPA, version 2.1
+MySQL, version 5.5
+Struts2, version 2.3.16
